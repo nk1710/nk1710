@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nk1710
 - 👀 I’m interested in ..coding.
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...java
+- 🌱 I’m currently learning ...Web Development
 - 📫 How to reach me ...insta id- thakur_1710
 - 
 
