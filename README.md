@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thakur_1710
+- 👋 Hi, I’m Nikhil Singh
 - 👀 I’m interested in ..coding.
-- 🌱 I’m currently learning ...JAVA Development
+- 🌱 I’m JAVA Developer.
 - 
 
 <!---
